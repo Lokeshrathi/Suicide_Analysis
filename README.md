@@ -5,7 +5,7 @@
 - Analysis on the suicides rate based on various factors.
 ---
 ## VIRTUAL OBSERVATIONS :
-- Based on the SUICIDES_NOs.
+- Based on the SUICIDE_NOs.
 
 ### Sex 
 ![](https://github.com/Lokeshrathi/Suicide_Analysis/blob/master/Images/download.png)
